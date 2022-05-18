@@ -1,1 +1,1 @@
-# Unit5-01-PHP-EvenNumberDisplay
+[![GitHub's Super Linter](https://github.com/CarolynWP/Unit5-01-PHP-EvenNumberDisplay/actions/workflows/main.yml/badge.svg)](https://github.com/CarolynWP/Unit5-01-PHP-EvenNumberDisplay/actions)

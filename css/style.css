@@ -1,0 +1,34 @@
+body {
+height: 100vh;
+	background: linear-gradient(
+		to right,
+		#F3B644 0%,
+		#F3B644 20%,
+		#E8DB38 100%
+	);
+}
+
+.margin {
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+}
+
+.zoom {
+	zoom: 1.2;
+}
+
+h1{
+	background-color: #ffffff;
+	color: #f58e56;
+}
+
+h2{
+	background-color: #ffffff;
+	color: #bd5c28;
+}
+
+p{
+	background-color: #ffffff;
+	color: #f58e56;
+}
